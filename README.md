@@ -1,6 +1,6 @@
 ### Olá 👋
 
-###Sobre mim
+### Sobre mim
 
 Sou um estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia. Atualmente estou no quarto semestre do curso, buscando uma oportunidade de estágio para aprimorar minhas habilidades e contribuir para projetos interessantes.
 
