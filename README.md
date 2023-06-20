@@ -6,6 +6,8 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnol
 
 Minhas principais áreas de estudo e desenvolvimento incluem HTML, CSS, JavaScript, SCSS/Sass, Firebase e React. Tenho me dedicado a aprender e aprimorar essas tecnologias, sempre em busca de novos desafios e aprendizados.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fellype-Kaualayout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fellype-Kaua&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 Se você procura um estagiário dedicado, entusiasta e com vontade de aprender, estou aberto a oportunidades de estágio.
