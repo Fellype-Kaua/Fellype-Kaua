@@ -9,4 +9,6 @@ Minhas principais áreas de estudo e desenvolvimento incluem HTML, CSS, JavaScri
 
 Se você procura um estagiário dedicado, entusiasta e com vontade de aprender, estou aberto a oportunidades de estágio.
 Vamos nos conectar?
+
+
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/fellype-kau%C3%A3-64a135226/)
